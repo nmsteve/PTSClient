@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:49727/PTSClientWebService.asmx?wsdl" uri="xml-resources/web-service-references/PTSClientWebService/wsdl/localhost_49727/PTSClientWebService.asmx.wsdl"/>
+    <system systemId="http://localhost:49727/PTSClientWebService.asmx?WSDL" uri="xml-resources/web-service-references/PTSClientWebService_4/wsdl/localhost_49727/PTSClientWebService.asmx.wsdl"/>
+</catalog>
